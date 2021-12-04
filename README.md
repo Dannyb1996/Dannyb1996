@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danny B
-- 👀 I’m interested in Data Science , Software Engineering , Web Devolovpment 
+- 👀 I’m interested in Data Science , Software Engineering , Web Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything do with Python
 - 📫 How to reach me, danilorebelo17@gmail.com
